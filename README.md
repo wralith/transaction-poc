@@ -2,7 +2,10 @@
 
 This repository is created to show a concept to my friend Sacettin
 
-Check the tests especially [./choreography/integration_flow_test.go] to see flow
+Check the tests especially [this one](./choreography/integration_flow_test.go) to see flow
+
+## Flow
+![flow](./docs/flow.png)
 
 ## Run
 
